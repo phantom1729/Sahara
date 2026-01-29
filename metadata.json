@@ -1,0 +1,7 @@
+{
+  "name": "Sahara: Your Elder Sibling",
+  "description": "A safe, empathetic space for girls and young women to talk to a 'Big Brother' or 'Big Sister' when they feel scared or alone, offering non-judgmental support and guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
